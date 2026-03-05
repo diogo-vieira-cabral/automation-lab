@@ -1,0 +1,20 @@
+
+_Images:
+  - .jpg
+  - .jpeg
+  - .png
+  - .gif
+
+_Videos:
+  - .mp4
+  - .mkv
+  - .mov
+
+_Music:
+  - .mp3
+  - .wav
+
+_Documents:
+  - .pdf
+  - .docx
+  - .xlsx
