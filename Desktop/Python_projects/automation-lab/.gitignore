@@ -1,2 +1,6 @@
+# Ignore everything EXCEPT your projects
 /*
-*.log
+!olx-scraper/
+!organizer/ 
+!README.md
+!.gitignore
