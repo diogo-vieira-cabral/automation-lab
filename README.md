@@ -1,5 +1,5 @@
 # Automation Lab
 
-- **olx-scraper/** - Automates OLX employer discovery for client acquisition
+- [olx-scraper](olx-scraper/) - Python automation tool - research employer needs to uncover potential client acquisition.
 
-- **organizer/** - Sort out and organize a folder with configurable specs
+- [organizer](organizer/) - Sort out and organize a folder with configurable specs
